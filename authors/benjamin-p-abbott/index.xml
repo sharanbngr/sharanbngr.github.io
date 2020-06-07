@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin P Abbott | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/authors/benjamin-p-abbott/</link>
+      <atom:link href="https://sharanbngr.github.io/authors/benjamin-p-abbott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin P Abbott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Benjamin P Abbott</title>
+      <link>https://sharanbngr.github.io/authors/benjamin-p-abbott/</link>
+    </image>
+    
+    <item>
+      <title>A guide to LIGO--Virgo detector noise and extraction of transient gravitational-wave signals</title>
+      <link>https://sharanbngr.github.io/publication/ligo-scientific-2019-hgc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/ligo-scientific-2019-hgc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model comparison from LIGO--Virgo data on GW170817&#39;s binary components and consequences for the merger remnant</title>
+      <link>https://sharanbngr.github.io/publication/ligo-scientific-2019-eut/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/ligo-scientific-2019-eut/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

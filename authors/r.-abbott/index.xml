@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Abbott | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/authors/r.-abbott/</link>
+      <atom:link href="https://sharanbngr.github.io/authors/r.-abbott/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Abbott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>R. Abbott</title>
+      <link>https://sharanbngr.github.io/authors/r.-abbott/</link>
+    </image>
+    
+    <item>
+      <title>GW190412: Observation of a Binary-Black-Hole Coalescence with Asymmetric Masses</title>
+      <link>https://sharanbngr.github.io/publication/ligo-scientific-2020-stg/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/ligo-scientific-2020-stg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Margot Fitz Axen | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/authors/margot-fitz-axen/</link>
+      <atom:link href="https://sharanbngr.github.io/authors/margot-fitz-axen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Margot Fitz Axen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Margot Fitz Axen</title>
+      <link>https://sharanbngr.github.io/authors/margot-fitz-axen/</link>
+    </image>
+    
+    <item>
+      <title>Multiwavelength observations of cosmological phase transitions using LISA and Cosmic Explorer</title>
+      <link>https://sharanbngr.github.io/publication/axen-2018-zvb/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/axen-2018-zvb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

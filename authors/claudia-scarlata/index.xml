@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claudia Scarlata | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/authors/claudia-scarlata/</link>
+      <atom:link href="https://sharanbngr.github.io/authors/claudia-scarlata/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claudia Scarlata</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Claudia Scarlata</title>
+      <link>https://sharanbngr.github.io/authors/claudia-scarlata/</link>
+    </image>
+    
+    <item>
+      <title>Measuring angular N-point correlations of binary black-hole merger gravitational-wave events with hierarchical Bayesian inference</title>
+      <link>https://sharanbngr.github.io/publication/banagiri-2020-kqd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/banagiri-2020-kqd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

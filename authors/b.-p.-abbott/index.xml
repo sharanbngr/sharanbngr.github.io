@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. P. Abbott | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/authors/b.-p.-abbott/</link>
+      <atom:link href="https://sharanbngr.github.io/authors/b.-p.-abbott/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. P. Abbott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>B. P. Abbott</title>
+      <link>https://sharanbngr.github.io/authors/b.-p.-abbott/</link>
+    </image>
+    
+    <item>
+      <title>Search for Post-merger Gravitational Waves from the Remnant of the Binary Neutron Star Merger GW170817</title>
+      <link>https://sharanbngr.github.io/publication/abbott-2017-dke/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/abbott-2017-dke/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Hamburg | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/authors/r.-hamburg/</link>
+      <atom:link href="https://sharanbngr.github.io/authors/r.-hamburg/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Hamburg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>R. Hamburg</title>
+      <link>https://sharanbngr.github.io/authors/r.-hamburg/</link>
+    </image>
+    
+    <item>
+      <title>A Joint Fermi-GBM and LIGO/Virgo Analysis of Compact Binary Mergers From the First and Second Gravitational-wave Observing Runs</title>
+      <link>https://sharanbngr.github.io/publication/hamburg-2020-dtg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/hamburg-2020-dtg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

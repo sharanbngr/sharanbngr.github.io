@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Thrane | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/authors/eric-thrane/</link>
+      <atom:link href="https://sharanbngr.github.io/authors/eric-thrane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Thrane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Eric Thrane</title>
+      <link>https://sharanbngr.github.io/authors/eric-thrane/</link>
+    </image>
+    
+    <item>
+      <title>Constraining the Gravitational-Wave Afterglow From a Binary Neutron Star Coalescence</title>
+      <link>https://sharanbngr.github.io/publication/banagiri-2019-lon/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/banagiri-2019-lon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
