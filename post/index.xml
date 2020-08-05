@@ -5,12 +5,271 @@
     <link>https://sharanbngr.github.io/post/</link>
       <atom:link href="https://sharanbngr.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jun 2020 15:02:59 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://sharanbngr.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Gravitational-waves, anisotropies and the large scale structure of the Universe</title>
+      <link>https://sharanbngr.github.io/post/npt-angular-correlations/</link>
+      <pubDate>Sun, 07 Jun 2020 15:02:59 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/post/npt-angular-correlations/</guid>
+      <description>&lt;p&gt;This blog post is about some recent papers which I led or was a coauthor on, to use gravitational-waves as a probe to measure anisotropies in the universe.&lt;/p&gt;
+&lt;p&gt;The fundamental idea of cosmology is that we can apply the laws of physics - broadly speaking the general theory of relativity - to the entire universe as a whole. The discovery of the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Cosmic_microwave_background#History&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cosmic microwave background (CMB)&lt;/a&gt; in the 1950s laid the foundation to observational aspect of cosmology, which hand-in-hand with theory has now given us a detailed picture of our Universe. For instance, we know that that the Universe is expanding at an accelerating rate from an initial very hot, dense state called the Big Bang.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-history-of-the-universe-image-credit-nasawmap-science-team&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/big-bang_hu2e6c10cddf4568b99980021fcf446508_373724_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;History of the Universe. Image credit: NASA/WMAP Science Team&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/big-bang_hu2e6c10cddf4568b99980021fcf446508_373724_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    History of the Universe. Image credit: NASA/WMAP Science Team
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The cosmic microwave background (CMB) is a snapshot of the universe just 380,000 years after the Big-bang and it still remains one of our most important sources for knowledge about cosmology. From modern CMB measurements made by the 
+&lt;a href=&#34;https://map.gsfc.nasa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WMAP&lt;/a&gt; and the 
+&lt;a href=&#34;http://www.esa.int/Science_Exploration/Space_Science/Planck&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planck&lt;/a&gt; satellites, we know that the Universe is fairly isotropic - i.e nearly the same in all directions -  and homogenous on large scales.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-map-of-the-cmb-by-planck-the-anisotropies-are-very-small-image-credit-esa-and-the-planck-collaboration&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/Planck_CMB_hu6b7a9390778a46f318534066488de1c1_2373272_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Map of the CMB by Planck. The anisotropies are very small. Image credit: ESA and the Planck Collaboration&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/Planck_CMB_hu6b7a9390778a46f318534066488de1c1_2373272_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Map of the CMB by Planck. The anisotropies are very small. Image credit: ESA and the Planck Collaboration
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Studies of the CMB are early universe probes of cosmology. One of the tools we can use to study the universe at latter times are galaxy surveys like the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sloan Digital Sky Survey (SDSS)&lt;/a&gt;. These probes do cosmology by studying the distributions of millions or billions of galaxies. The distribution of galaxies will let us infer the so-called large scale structure of the Universe, which is the combined distribution of matter - dark and baryonic. As one might expect, there is a lot of other other non-cosmological science too which comes out surveys like this. Studying billions of galaxies tends to teach us a thing or two about them.&lt;/p&gt;
+&lt;p&gt;Amongst sciences cosmology is somewhat distinct; we have just one universe. The more independent ways we have to study cosmology the better; that way we can check one against the other. With gravitational-waves opening up a new window into the universe we have a new tool to probe cosmology. This has already happened with the binary neutron star merger GW170817 
+&lt;a href=&#34;https://www.nature.com/articles/nature24471&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;where the observation of the optical counterpart enabled us to measure the Hubble constant&lt;/a&gt; independently of any other ways of measuring it.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-measurement-of-the-hubble-constant-with-gravitational-waves-source-the-lvc-et-al-nature-551-2017&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/Hubble_constant_hu01af552d3e9f4f2a30453c131d18a528_58610_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Measurement of the Hubble constant with gravitational-waves. Source: The LVC et al., Nature, 551, (2017)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/Hubble_constant_hu01af552d3e9f4f2a30453c131d18a528_58610_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Measurement of the Hubble constant with gravitational-waves. Source: The LVC et al., Nature, 551, (2017)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;With the gravitational-wave detectors getting more sensitive and increasing their reach we can imagine using them to measure the large scale structure, and angular distribution of matter in the Universe. Any extra-galactic sources, or progenitors of gravitational-waves (which are not of early universe origin) should trace the distribution of matter in the universe. The best bet for this are black-hole mergers; we see them the farthest away. The idea then is to use gravitational-waves to build a &amp;ldquo;map&amp;rdquo; of the progenitors on the sky and infer from that the matter distribution.&lt;/p&gt;
+&lt;p&gt;To be fair, this is not a new idea. For example searches for measuring anisotropies in the stochastic background has existed for a while, with the 
+&lt;a href=&#34;https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.062001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;latest limits on anisotropies from the second observing run&lt;/a&gt; being the most sensitive so far. While the the stochastic searches are pretty robust, they also make very few assumptions on the nature of the background. One could do better by specifically targeting black-hole (BBH) mergers, by using the results of parameter estimation to draw inferences about the distribution on the sky.&lt;/p&gt;
+&lt;p&gt;In this paper we trying to specifically do that by using hierarchical Bayesian inference. Normal Bayesian inference relates $p(\lambda| d)$ the probability of parameters $\lambda$ given data $d$ with the probability of data $d$ given parameters $\lambda$ called the likelihood  $\mathcal{L}(\lambda | d)$ through the Bayes theorem,&lt;/p&gt;
+&lt;p&gt;$$p(\lambda | d) \propto \mathcal{L}(d | \lambda) \pi(\lambda) $$&lt;/p&gt;
+&lt;p&gt;Formally $p(\lambda | d)$ is called the posterior and $\pi(\lambda)$ the prior. But there is more. The shape of the prior can depend on specific population models, in which case we introduce parameters $\Lambda$ to describe the population. This is a hierarchical modeling - because it is modeling the population and not a specific event - and given enough observations we can measure the population parameters $\Lambda$. We can write Bayes theorem for including population parameters by including a prior on them $\pi(\Lambda)$,&lt;/p&gt;
+&lt;p&gt;$$p(\lambda, \Lambda | d) \propto \mathcal{L}(d | \lambda) \pi(\lambda | \Lambda) \pi(\Lambda) $$&lt;/p&gt;
+&lt;p&gt;Perhaps not surprisingly, hierarchical Bayesian modeling is used in using observations to study population distributions. For example, in the context of gravitational-waves for example it has been used to study things like the 
+&lt;a href=&#34;https://arxiv.org/abs/1811.12940&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mass and spin distributions of black-holes&lt;/a&gt; that LIGO and Virgo saw. In this paper we develop ways to extend hierarchical inference to measure anisotropies, specifically by measuring $N$-point angular correlations.&lt;/p&gt;
+&lt;p&gt;To understand $N$-point correlations, it is useful to look at a simpler specific case of $N=2$ with two-point correlation. We borrow terminology from the galaxy survey fields, where two-point correlation function $\zeta(\Delta^{mn})$ can be defined the probability function of two galaxies labeled $m, n$ being at an angular separation of $\Delta^{mn}$ on the sky. Similarly for gravitational-waves we define the two-point correlation function $\zeta(\Delta^{mn})$ as the probability function of two BBH labeled $m, n$ occurring at an angular separation of $\Delta^{mn}$ on the sky.&lt;/p&gt;
+&lt;p&gt;The two-point correlation functions can be written as an expansion of 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Legendre_polynomials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Legendre polynomials&lt;/a&gt; which are useful things you might have seen already in electromagnetism or cosmology.&lt;/p&gt;
+&lt;p&gt;$$ \zeta ( \Delta^{mn} |  { C_l} ) = \sum_l (2l +1)  C_l   \mathcal{P}_l(cos( \Delta^{mn} ))$$&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;multipole&lt;/em&gt; $l$ determines the angular scale of the anisotropy in question. The lowest coefficient $C_0$ is the isotropic parameter which is the parameter that determines the value constant over the entire sky. The other $l$-values determine anisotropies of the scales of $\theta \sim 2\pi /l$.&lt;/p&gt;
+&lt;p&gt;In the language of hierarchical Bayesian inference we apply a prior $\zeta$ which depend on parameters $C_l$ which are measured using the data. In this case the data is of course BBH mergers which can&amp;rsquo;t be precisely pin-pointed. For example the figure below shows some of the sky localizations of the most confident detections in the second observing run O2, they are huge. In our analysis we actually extend this to sub-threshold signals too. These are signals which are pretty weak and will have much larger uncertainties, but since we have many more of them we can hope to learn something by including them. We are also much less uncertain that these signals are weak, and we use a statistical framework designed to account for this. I will not go into details about it here, but here is a link to the 
+&lt;a href=&#34;https://arxiv.org/abs/1712.00688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;formalism paper if you are curious to learn more&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-90-confident-sky-localization-of-some-of-the-events-observed-in-the-second-observing-run-of-ligo-virgo-source-abbott-et-al-prx-9-031040-2019&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/gwtc_sky_loc_hu82dc0ae15b9b3b263499262d3e29bc79_245914_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;90% confident sky localization of some of the events observed in the second observing run of LIGO-Virgo. Source: Abbott et al., PRX 9, 031040 (2019)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/gwtc_sky_loc_hu82dc0ae15b9b3b263499262d3e29bc79_245914_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    90% confident sky localization of some of the events observed in the second observing run of LIGO-Virgo. Source: Abbott et al., PRX 9, 031040 (2019)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In this we developed a formalism to do precisely that. To validate our methods we simulate a large number of BBH signals distributed in an anisotropic manner (albeit with statistical isotropy) on the sky. And then attempt to recover the $C_l$. The figure below shows what the technique recovers from a simulation. To be clear the $C_l$ values used in this data are larger than potential astrophysical values. To be able to measure smaller $C_l$ values we need to use a larger amount of data.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-plot-shows-recovery-posteriors-for-the-c_l-along-with-the-signal-duty-cycle-the-red-lines-represent-the-true-simulated-values&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/BBH_npt_hu99356da6c7195b93b4c2915b483b8c67_424034_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The plot shows recovery posteriors for the $C_l$ along with the signal duty cycle. The red lines represent the &amp;lsquo;true&amp;rsquo; simulated values.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/BBH_npt_hu99356da6c7195b93b4c2915b483b8c67_424034_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The plot shows recovery posteriors for the $C_l$ along with the signal duty cycle. The red lines represent the &amp;lsquo;true&amp;rsquo; simulated values.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We can also do a similar analysis by &amp;lsquo;correlating&amp;rsquo; gravitational-wave signals with external tracers of structure in the universe like galaxy counts. The positions of the galaxies are localized to a much better degree than gravitational-waves, which means we can probe the angular distribution degree than with BBH alone.  We demonstrate this again with a simulation the recovery of which is shown below.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-plot-shows-recovery-posteriors-for-the-c_l-along-with-the-signal-duty-cycle-for-a-simulated-galaxy-counts-bbh-correlation-the-red-lines-represent-the-true-simulated-values&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/BBH_gal_npt_hu23070bd1a43b1a89edefe85472d79751_519329_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The plot shows recovery posteriors for the $C_l$ along with the signal duty cycle for a simulated galaxy counts-BBH correlation. The red lines represent the &amp;lsquo;true&amp;rsquo; simulated values.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://sharanbngr.github.io/post/npt-angular-correlations/BBH_gal_npt_hu23070bd1a43b1a89edefe85472d79751_519329_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600&#34; height=&#34;800&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The plot shows recovery posteriors for the $C_l$ along with the signal duty cycle for a simulated galaxy counts-BBH correlation. The red lines represent the &amp;lsquo;true&amp;rsquo; simulated values.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I find this to be an exiting new way to use gravitational-waves as tools for cosmology. Using gravitational-waves to trace structure provides with an entirely new way to probe the distribution of matter and ultimately dark matter. One extension I am really excited about is measure 3D correlations as opposed to just angular correlations demonstrated here. There is more to come in this, so keep an eye out for this space!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
