@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSS | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/tags/lss/</link>
+      <atom:link href="https://sharanbngr.github.io/tags/lss/index.xml" rel="self" type="application/rss+xml" />
+    <description>LSS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Dec 2019 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>LSS</title>
+      <link>https://sharanbngr.github.io/tags/lss/</link>
+    </image>
+    
+    <item>
+      <title>Measuring angular correlations in the ensemble of binary black-hole mergers</title>
+      <link>https://sharanbngr.github.io/talk/texas_symposium_2019/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 -0600</pubDate>
+      <guid>https://sharanbngr.github.io/talk/texas_symposium_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring anisotropies in the field of sub-threshold binary black-hole mergers</title>
+      <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LIGO | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/tags/ligo/</link>
+      <atom:link href="https://sharanbngr.github.io/tags/ligo/index.xml" rel="self" type="application/rss+xml" />
+    <description>LIGO</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Dec 2019 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>LIGO</title>
+      <link>https://sharanbngr.github.io/tags/ligo/</link>
+    </image>
+    
+    <item>
+      <title>Measuring angular correlations in the ensemble of binary black-hole mergers</title>
+      <link>https://sharanbngr.github.io/talk/texas_symposium_2019/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 -0600</pubDate>
+      <guid>https://sharanbngr.github.io/talk/texas_symposium_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring anisotropies in the field of sub-threshold binary black-hole mergers</title>
+      <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational-wave searches for post-merger remnants following GW170817</title>
+      <link>https://sharanbngr.github.io/talk/igc25_penn_state_2019/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/igc25_penn_state_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational-wave searches for post-merger remnants of GW170817</title>
+      <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2018/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 -0600</pubDate>
+      <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational-wave searches for post-merger remnants following GW170817</title>
+      <link>https://sharanbngr.github.io/talk/midwest_relativity_2018/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/midwest_relativity_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian parameter estimation of binary neutron star post-merger signals</title>
+      <link>https://sharanbngr.github.io/talk/lvc_fall_2018/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/lvc_fall_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STAMP search for long transient Post-Merger signals from GW170817</title>
+      <link>https://sharanbngr.github.io/talk/lvc_spring_2018/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/lvc_spring_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SGWB | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/tags/sgwb/</link>
+      <atom:link href="https://sharanbngr.github.io/tags/sgwb/index.xml" rel="self" type="application/rss+xml" />
+    <description>SGWB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>SGWB</title>
+      <link>https://sharanbngr.github.io/tags/sgwb/</link>
+    </image>
+    
+    <item>
+      <title>A Bayesian analysis for the anisotropies in the stochastic gravitational wave background with LISA</title>
+      <link>https://sharanbngr.github.io/talk/lisa_symposium_2020/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/lisa_symposium_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

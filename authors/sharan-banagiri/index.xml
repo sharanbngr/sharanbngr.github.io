@@ -5,7 +5,7 @@
     <link>https://sharanbngr.github.io/authors/sharan-banagiri/</link>
       <atom:link href="https://sharanbngr.github.io/authors/sharan-banagiri/index.xml" rel="self" type="application/rss+xml" />
     <description>Sharan Banagiri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sharan Banagiri</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Measuring angular N-point correlations of binary black-hole merger gravitational-wave events with hierarchical Bayesian inference</title>
-      <link>https://sharanbngr.github.io/publication/banagiri-2020-kqd/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://sharanbngr.github.io/publication/banagiri-2020-kqd/</guid>
+      <title>A Bayesian analysis for the anisotropies in the stochastic gravitational wave background with LISA</title>
+      <link>https://sharanbngr.github.io/talk/lisa_symposium_2020/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/lisa_symposium_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for Cross-Correlation Between Stochastic Gravitational Wave Background and Galaxy Number Counts</title>
+      <link>https://sharanbngr.github.io/publication/yang-2020-usq/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/yang-2020-usq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for anisotropy in the distribution of binary black hole mergers</title>
+      <link>https://sharanbngr.github.io/publication/payne-2020-pmc/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/payne-2020-pmc/</guid>
       <description></description>
     </item>
     
@@ -29,10 +45,74 @@
     </item>
     
     <item>
+      <title>Measuring angular N-point correlations of binary black hole merger gravitational-wave events with hierarchical Bayesian inference</title>
+      <link>https://sharanbngr.github.io/publication/banagiri-2020-kqd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/banagiri-2020-kqd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring angular correlations in the ensemble of binary black-hole mergers</title>
+      <link>https://sharanbngr.github.io/talk/texas_symposium_2019/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 -0600</pubDate>
+      <guid>https://sharanbngr.github.io/talk/texas_symposium_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring anisotropies in the field of sub-threshold binary black-hole mergers</title>
+      <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational-wave searches for post-merger remnants following GW170817</title>
+      <link>https://sharanbngr.github.io/talk/igc25_penn_state_2019/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/igc25_penn_state_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Search strategies for long gravitational-wave transients: hidden Markov model tracking and seedless clustering</title>
       <link>https://sharanbngr.github.io/publication/banagiri-2019-obu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://sharanbngr.github.io/publication/banagiri-2019-obu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational-wave searches for post-merger remnants of GW170817</title>
+      <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2018/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 -0600</pubDate>
+      <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational-wave searches for post-merger remnants following GW170817</title>
+      <link>https://sharanbngr.github.io/talk/midwest_relativity_2018/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/midwest_relativity_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian parameter estimation of binary neutron star post-merger signals</title>
+      <link>https://sharanbngr.github.io/talk/lvc_fall_2018/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/lvc_fall_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STAMP search for long transient Post-Merger signals from GW170817</title>
+      <link>https://sharanbngr.github.io/talk/lvc_spring_2018/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/lvc_spring_2018/</guid>
       <description></description>
     </item>
     
