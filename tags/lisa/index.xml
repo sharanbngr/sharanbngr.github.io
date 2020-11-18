@@ -5,12 +5,20 @@
     <link>https://sharanbngr.github.io/tags/lisa/</link>
       <atom:link href="https://sharanbngr.github.io/tags/lisa/index.xml" rel="self" type="application/rss+xml" />
     <description>LISA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2020 00:00:00 -0600</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>LISA</title>
       <link>https://sharanbngr.github.io/tags/lisa/</link>
     </image>
+    
+    <item>
+      <title>Astrophysics and cosmology with gravitational waves</title>
+      <link>https://sharanbngr.github.io/talk/ligo_seminar_caltech_2020/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 -0600</pubDate>
+      <guid>https://sharanbngr.github.io/talk/ligo_seminar_caltech_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Bayesian analysis for the anisotropies in the stochastic gravitational wave background with LISA</title>

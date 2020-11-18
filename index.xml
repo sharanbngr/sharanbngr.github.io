@@ -5,12 +5,20 @@
     <link>https://sharanbngr.github.io/</link>
       <atom:link href="https://sharanbngr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sharan Banagiri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2020 00:00:00 -0600</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sharan Banagiri</title>
       <link>https://sharanbngr.github.io/</link>
     </image>
+    
+    <item>
+      <title>Astrophysics and cosmology with gravitational waves</title>
+      <link>https://sharanbngr.github.io/talk/ligo_seminar_caltech_2020/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 -0600</pubDate>
+      <guid>https://sharanbngr.github.io/talk/ligo_seminar_caltech_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Bayesian analysis for the anisotropies in the stochastic gravitational wave background with LISA</title>
@@ -288,14 +296,6 @@
     </item>
     
     <item>
-      <title>Searching for anisotropy in the distribution of binary black hole mergers</title>
-      <link>https://sharanbngr.github.io/publication/payne-2020-pmc/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sharanbngr.github.io/publication/payne-2020-pmc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Constraining the Gravitational-Wave Afterglow From a Binary Neutron Star Coalescence</title>
       <link>https://sharanbngr.github.io/publication/banagiri-2019-lon/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -308,6 +308,14 @@
       <link>https://sharanbngr.github.io/publication/banagiri-2020-kqd/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://sharanbngr.github.io/publication/banagiri-2020-kqd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for anisotropy in the distribution of binary black hole mergers</title>
+      <link>https://sharanbngr.github.io/publication/payne-2020-pmc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/payne-2020-pmc/</guid>
       <description></description>
     </item>
     
