@@ -5,12 +5,20 @@
     <link>https://sharanbngr.github.io/</link>
       <atom:link href="https://sharanbngr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sharan Banagiri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2020 00:00:00 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 -0600</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sharan Banagiri</title>
       <link>https://sharanbngr.github.io/</link>
     </image>
+    
+    <item>
+      <title>Mapping the gravitational-wave sky with the LISA space mission</title>
+      <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2020/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 -0600</pubDate>
+      <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Astrophysics and cosmology with gravitational waves</title>
@@ -21,18 +29,18 @@
     </item>
     
     <item>
-      <title>A Bayesian analysis for the anisotropies in the stochastic gravitational wave background with LISA</title>
-      <link>https://sharanbngr.github.io/talk/lisa_symposium_2020/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 -0500</pubDate>
-      <guid>https://sharanbngr.github.io/talk/lisa_symposium_2020/</guid>
+      <title>Searching for cross-correlation between stochastic gravitational-wave background and galaxy number counts</title>
+      <link>https://sharanbngr.github.io/publication/10-1093-mnrasstaa-3159/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/10-1093-mnrasstaa-3159/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Searching for Cross-Correlation Between Stochastic Gravitational Wave Background and Galaxy Number Counts</title>
-      <link>https://sharanbngr.github.io/publication/yang-2020-usq/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://sharanbngr.github.io/publication/yang-2020-usq/</guid>
+      <title>A Bayesian analysis for the anisotropies in the stochastic gravitational wave background with LISA</title>
+      <link>https://sharanbngr.github.io/talk/lisa_symposium_2020/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 -0500</pubDate>
+      <guid>https://sharanbngr.github.io/talk/lisa_symposium_2020/</guid>
       <description></description>
     </item>
     

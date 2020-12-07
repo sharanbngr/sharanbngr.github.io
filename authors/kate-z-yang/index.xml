@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kate Z Yang | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/authors/kate-z-yang/</link>
+      <atom:link href="https://sharanbngr.github.io/authors/kate-z-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kate Z Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kate Z Yang</title>
+      <link>https://sharanbngr.github.io/authors/kate-z-yang/</link>
+    </image>
+    
+    <item>
+      <title>Searching for cross-correlation between stochastic gravitational-wave background and galaxy number counts</title>
+      <link>https://sharanbngr.github.io/publication/10-1093-mnrasstaa-3159/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/10-1093-mnrasstaa-3159/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

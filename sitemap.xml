@@ -3,22 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sharanbngr.github.io/authors/</loc>
+    <lastmod>2020-12-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/tags/galactic-foreground/</loc>
+    <lastmod>2020-12-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/tags/lisa/</loc>
+    <lastmod>2020-12-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2020/</loc>
+    <lastmod>2020-12-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/talk/</loc>
+    <lastmod>2020-12-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/tags/sgwb/</loc>
+    <lastmod>2020-12-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/authors/sharan-banagiri/</loc>
+    <lastmod>2020-12-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/</loc>
+    <lastmod>2020-12-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/tags/</loc>
+    <lastmod>2020-12-07T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sharanbngr.github.io/talk/ligo_seminar_caltech_2020/</loc>
     <lastmod>2020-11-17T00:00:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sharanbngr.github.io/authors/</loc>
-    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sharanbngr.github.io/tags/ligo/</loc>
-    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharanbngr.github.io/tags/lisa/</loc>
     <lastmod>2020-11-17T00:00:00-06:00</lastmod>
   </url>
   
@@ -33,68 +68,43 @@
   </url>
   
   <url>
-    <loc>https://sharanbngr.github.io/talk/</loc>
-    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
+    <loc>https://sharanbngr.github.io/publication_types/2/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sharanbngr.github.io/tags/sgwb/</loc>
-    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
+    <loc>https://sharanbngr.github.io/authors/claudia-scarlata/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sharanbngr.github.io/authors/sharan-banagiri/</loc>
-    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
+    <loc>https://sharanbngr.github.io/authors/kate-z-yang/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sharanbngr.github.io/</loc>
-    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
+    <loc>https://sharanbngr.github.io/publication_types/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sharanbngr.github.io/tags/</loc>
-    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
+    <loc>https://sharanbngr.github.io/publication/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/publication/10-1093-mnrasstaa-3159/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sharanbngr.github.io/authors/vuk-mandic/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sharanbngr.github.io/talk/lisa_symposium_2020/</loc>
     <lastmod>2020-09-02T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharanbngr.github.io/publication_types/2/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharanbngr.github.io/authors/claudia-scarlata/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharanbngr.github.io/authors/kate-ziyan-yang/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharanbngr.github.io/publication_types/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharanbngr.github.io/publication/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharanbngr.github.io/publication/yang-2020-usq/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharanbngr.github.io/authors/vuk-mandic/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

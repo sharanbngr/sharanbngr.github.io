@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galactic foreground | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/tags/galactic-foreground/</link>
+      <atom:link href="https://sharanbngr.github.io/tags/galactic-foreground/index.xml" rel="self" type="application/rss+xml" />
+    <description>Galactic foreground</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Galactic foreground</title>
+      <link>https://sharanbngr.github.io/tags/galactic-foreground/</link>
+    </image>
+    
+    <item>
+      <title>Mapping the gravitational-wave sky with the LISA space mission</title>
+      <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2020/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 -0600</pubDate>
+      <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
