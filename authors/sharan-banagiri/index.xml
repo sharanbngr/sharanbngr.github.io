@@ -5,12 +5,20 @@
     <link>https://sharanbngr.github.io/authors/sharan-banagiri/</link>
       <atom:link href="https://sharanbngr.github.io/authors/sharan-banagiri/index.xml" rel="self" type="application/rss+xml" />
     <description>Sharan Banagiri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sharan Banagiri</title>
       <link>https://sharanbngr.github.io/authors/sharan-banagiri/</link>
     </image>
+    
+    <item>
+      <title>Mapping the Gravitational-wave Sky with LISA: A Bayesian Spherical Harmonic Approach</title>
+      <link>https://sharanbngr.github.io/publication/banagiri-2021-ovv/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/banagiri-2021-ovv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mapping the gravitational-wave sky with the LISA space mission</title>

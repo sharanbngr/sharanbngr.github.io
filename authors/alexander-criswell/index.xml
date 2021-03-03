@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Criswell | Sharan Banagiri</title>
+    <link>https://sharanbngr.github.io/authors/alexander-criswell/</link>
+      <atom:link href="https://sharanbngr.github.io/authors/alexander-criswell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Criswell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alexander Criswell</title>
+      <link>https://sharanbngr.github.io/authors/alexander-criswell/</link>
+    </image>
+    
+    <item>
+      <title>Mapping the Gravitational-wave Sky with LISA: A Bayesian Spherical Harmonic Approach</title>
+      <link>https://sharanbngr.github.io/publication/banagiri-2021-ovv/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sharanbngr.github.io/publication/banagiri-2021-ovv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
