@@ -5,7 +5,7 @@
     <link>https://sharanbngr.github.io/talk/</link>
       <atom:link href="https://sharanbngr.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Dec 2020 00:00:00 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Mapping the gravitational-wave sky with the LISA space mission</title>
       <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2020/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 -0500</pubDate>
       <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2020/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Astrophysics and cosmology with gravitational waves</title>
       <link>https://sharanbngr.github.io/talk/ligo_seminar_caltech_2020/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 -0500</pubDate>
       <guid>https://sharanbngr.github.io/talk/ligo_seminar_caltech_2020/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>A Bayesian analysis for the anisotropies in the stochastic gravitational wave background with LISA</title>
       <link>https://sharanbngr.github.io/talk/lisa_symposium_2020/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 -0400</pubDate>
       <guid>https://sharanbngr.github.io/talk/lisa_symposium_2020/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Measuring angular correlations in the ensemble of binary black-hole mergers</title>
       <link>https://sharanbngr.github.io/talk/texas_symposium_2019/</link>
-      <pubDate>Mon, 16 Dec 2019 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 -0500</pubDate>
       <guid>https://sharanbngr.github.io/talk/texas_symposium_2019/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Measuring anisotropies in the field of sub-threshold binary black-hole mergers</title>
       <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 -0400</pubDate>
       <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Gravitational-wave searches for post-merger remnants following GW170817</title>
       <link>https://sharanbngr.github.io/talk/igc25_penn_state_2019/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 -0400</pubDate>
       <guid>https://sharanbngr.github.io/talk/igc25_penn_state_2019/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>Gravitational-wave searches for post-merger remnants of GW170817</title>
       <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2018/</link>
-      <pubDate>Mon, 26 Nov 2018 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 -0500</pubDate>
       <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2018/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Gravitational-wave searches for post-merger remnants following GW170817</title>
       <link>https://sharanbngr.github.io/talk/midwest_relativity_2018/</link>
-      <pubDate>Sat, 13 Oct 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 -0400</pubDate>
       <guid>https://sharanbngr.github.io/talk/midwest_relativity_2018/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>Bayesian parameter estimation of binary neutron star post-merger signals</title>
       <link>https://sharanbngr.github.io/talk/lvc_fall_2018/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 -0400</pubDate>
       <guid>https://sharanbngr.github.io/talk/lvc_fall_2018/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>STAMP search for long transient Post-Merger signals from GW170817</title>
       <link>https://sharanbngr.github.io/talk/lvc_spring_2018/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 -0400</pubDate>
       <guid>https://sharanbngr.github.io/talk/lvc_spring_2018/</guid>
       <description></description>
     </item>
