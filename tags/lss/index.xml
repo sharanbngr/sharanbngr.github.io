@@ -5,7 +5,7 @@
     <link>https://sharanbngr.github.io/tags/lss/</link>
       <atom:link href="https://sharanbngr.github.io/tags/lss/index.xml" rel="self" type="application/rss+xml" />
     <description>LSS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2020 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Nov 2020 00:00:00 -0600</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>LSS</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Astrophysics and cosmology with gravitational waves</title>
       <link>https://sharanbngr.github.io/talk/ligo_seminar_caltech_2020/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 -0600</pubDate>
       <guid>https://sharanbngr.github.io/talk/ligo_seminar_caltech_2020/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Measuring angular correlations in the ensemble of binary black-hole mergers</title>
       <link>https://sharanbngr.github.io/talk/texas_symposium_2019/</link>
-      <pubDate>Mon, 16 Dec 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 -0600</pubDate>
       <guid>https://sharanbngr.github.io/talk/texas_symposium_2019/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Measuring anisotropies in the field of sub-threshold binary black-hole mergers</title>
       <link>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</link>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 -0500</pubDate>
       <guid>https://sharanbngr.github.io/talk/umn_cosmology_seminar_2019/</guid>
       <description></description>
     </item>
