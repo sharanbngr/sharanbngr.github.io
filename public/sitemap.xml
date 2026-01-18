@@ -206,8 +206,6 @@
   <url>
     <loc>http://localhost:1313/publication_types/paper-conference/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/authors/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/courses/hugo-blox/guide/formatting/callout/</loc><changefreq>weekly</changefreq></url>
