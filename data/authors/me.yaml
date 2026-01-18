@@ -1,0 +1,126 @@
+schema: "hugoblox/author/v1"
+slug: "me"
+is_owner: true
+name:
+  display: "Dr. Sharan Banagiri"
+  given: "Sharan"
+  family: "Banagiri"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
+postnominals:
+  - "PhD"
+status:
+  icon: "🌟"
+role: "Gravitational-wave Astrophysicist"
+bio: "Sharan Banagiri is an OzGrav fellow and gravitational-wave astrophysicist at Monash University. Using data from the LIGO-Virgo-KAGRA detectors, he studies black holes to uncover their formation environments and the stellar ancestors from which they evolved"
+affiliations:
+  - name: "OzGrav"
+    url: "https://www.ozgrav.org/"
+  - name: "LIGO Scientific Collaboration"
+    url: "https://ligo.org/"
+  - name: "Monash University"
+    url: "https://www.monash.edu/science/schools/physics/research/monash-astrophysics"
+links:
+  - icon: "brands/github"
+    url: "https://github.com/sharanbngr"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=8idXXfEAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0001-7852-7484"
+  - icon: "brands/bluesky"
+    url: "https://bsky.app/profile/geodesicvoyager.bsky.social"
+    label: "Bluesky"
+interests:
+  - "Black Holes"
+  - "Gravitational waves"
+  - "Neutron Stars"
+  - "Bayesian Statistics"
+  - "Cosmology"
+education:
+  - degree: "PhD in Physics"
+    institution: "University of Minnesota"
+    start: "2014-09-01"
+    end: "2021-05-30"
+    summary: "Dissertation on using gravitationl waves for cosmology and astrophysics.\n"
+    button:
+      text: "View dissertation"
+      url: "https://conservancy.umn.edu/items/e4f733e0-765d-4e96-a647-5ba825a1573c"
+      icon: "hero/arrow-down-tray"
+  - degree: "B.Tech"
+    institution: "Indian Institute of Technology, Hyderabad "
+    start: "2009-08-01"
+    end: "2013-04-30"
+    summary: "Majored in mechnical engineering with a minor in physcs.\n"
+experience:
+  - role: "OzGrav Postdoctoral Fellow"
+    org: "Monash University"
+    start: "2024-09-01"
+    end: ""
+    summary: ""
+  - role: "CIERA Postdoctoral Fellow"
+    org: "Northwestern University / CIERA"
+    start: "2023-09-01"
+    end: "2024-07-05"
+    summary: ""
+  - role: "CIERA Postdoctoral Associate"
+    org: "Northwestern University / CIERA"
+    start: "2021-07-05"
+    end: "2023-08-31"
+    summary: ""
+skills:
+  - name: "Technical Skills"
+    items:
+      - label: "Python"
+        level: 5
+      - label: "Machine Learning"
+        level: 3
+      - label: "Bayesian Inference"
+        level: 5
+      - label: "Latex"
+        level: 5
+      - label: "Matlab"
+        level: 4
+      - label: "Git"
+        level: 4
+      - label: "Linux"
+        level: 4
+      - label: "Slumr & HTCondor"
+        level: 4
+      - label: "Mathematica"
+        level: 4
+  - name: "Research & Communication"
+    items:
+      - label: "Academic Writing"
+        level: 5
+      - label: "Conference Presentation"
+        level: 5
+      - label: "Public Talks"
+        level: 4
+languages:
+  - name: "English"
+    level: null
+    label: "Fluent"
+  - name: "Telugu"
+    level: null
+    label: "Native"
+  - name: "Hindi"
+    level: null
+    label: "Fluent"
+awards:
+  - title: "Aneesur Rahman Award, University of Minnesota "
+    awarder: "University of Minnesota"
+    date: "2020-09-01"
+    summary: "A School of Physics and Astronomy award to advanced graduate students with outstanding research contributions"
+    icon: ""
+  - title: "Doctoral Dissertation Fellowship,"
+    awarder: "University of Minnesota "
+    date: "2019-09-01"
+    summary: "A pan university annual fellowship to support the dissertation of the accomplished Ph.D. candidates."
+  - title: "Hoff Lu Fellowship"
+    awarder: "University of Minnesota"
+    date: "2018-09-01"
+    summary: "A School of Physics and Astronomy fellowship to promising graduate students to support a summer of research"
+    icon: ""
+ids:
+  orcid: "0000-0001-7852-7484"

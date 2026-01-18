@@ -1,0 +1,12 @@
+body {
+  background-image: url('/img/site-bg.jpg');
+  background-size: cover;
+  background-attachment: fixed; /* Keeps the image still while scrolling */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Optional: If your sections have white backgrounds, make them transparent */
+.home-section {
+  background-color: transparent !important;
+}

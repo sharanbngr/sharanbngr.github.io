@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrophysics - High Energy Astrophysical Phenomena | </title>
+    <link>http://localhost:1313/tags/astrophysics---high-energy-astrophysical-phenomena/</link>
+      <atom:link href="http://localhost:1313/tags/astrophysics---high-energy-astrophysical-phenomena/index.xml" rel="self" type="application/rss+xml" />
+    <description>Astrophysics - High Energy Astrophysical Phenomena</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Astrophysics - High Energy Astrophysical Phenomena</title>
+      <link>http://localhost:1313/tags/astrophysics---high-energy-astrophysical-phenomena/</link>
+    </image>
+    
+    <item>
+      <title>Unresolved stochastic background from compact binary mergers detectable by next-generation ground-based gravitational-wave observatories</title>
+      <link>http://localhost:1313/publications/2024-ph-rv-d-110-b-3006-b/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-ph-rv-d-110-b-3006-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing the Number of Existing and Future Gravitational-wave Detections from Merging Double Compact Objects</title>
+      <link>http://localhost:1313/publications/2024-ap-j-969-108-b/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-ap-j-969-108-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Statistical Constraints on the Natal Kick Velocity of a Black Hole in an X-Ray Quiet Binary</title>
+      <link>http://localhost:1313/publications/2023-ap-j-959-106-b/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-ap-j-959-106-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified p$_astro$ for gravitational waves: Consistently combining information from multiple search pipelines</title>
+      <link>http://localhost:1313/publications/2023-ph-rv-d-108-h-3043-b/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-ph-rv-d-108-h-3043-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining the gravitational-wave afterglow from a binary neutron star coalescence</title>
+      <link>http://localhost:1313/publications/2020-mnras-492-4945-b/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-mnras-492-4945-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for Gravitational Waves from a Long-lived Remnant of the Binary Neutron Star Merger GW170817</title>
+      <link>http://localhost:1313/publications/2019-ap-j-875-160-a/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2019-ap-j-875-160-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

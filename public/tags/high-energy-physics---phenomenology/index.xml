@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High Energy Physics - Phenomenology | </title>
+    <link>http://localhost:1313/tags/high-energy-physics---phenomenology/</link>
+      <atom:link href="http://localhost:1313/tags/high-energy-physics---phenomenology/index.xml" rel="self" type="application/rss+xml" />
+    <description>High Energy Physics - Phenomenology</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>High Energy Physics - Phenomenology</title>
+      <link>http://localhost:1313/tags/high-energy-physics---phenomenology/</link>
+    </image>
+    
+    <item>
+      <title>Unresolved stochastic background from compact binary mergers detectable by next-generation ground-based gravitational-wave observatories</title>
+      <link>http://localhost:1313/publications/2024-ph-rv-d-110-b-3006-b/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-ph-rv-d-110-b-3006-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

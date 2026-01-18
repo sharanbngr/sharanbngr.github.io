@@ -1,0 +1,44 @@
+hugoblox:
+  schema: "2.0"
+  identity:
+    name: Dr. Sharan Banagiri
+    type: person
+    tagline: Gravitational-wave Astrophysicist | OzGrav Fellow
+    description: "Dr. Sharan Banagiri is a gravitational-wave astrophysicist and black hole wrangler based at Monash University in Melbourne. "
+  theme:
+    mode: system
+    pack: marine
+    colors:
+      primary: ""
+      secondary: ""
+      neutral: ""
+  typography:
+    font: sans
+    size: md
+  layout:
+    radius: md
+    spacing: comfortable
+    avatar_shape: circle
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+  footer:
+    style: minimal
+    language_switcher: true
+  copyright:
+    notice: © {year} {name}
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: true
+  search:
+    enable: true
+    plugins_css:
+      - custom

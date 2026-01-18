@@ -1,0 +1,217 @@
+---
+title: 'GWTC-4.0: Updating the Gravitational-Wave Transient Catalog with Observations
+  from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run'
+authors:
+- The LIGO Scientific Collaboration
+- the Virgo Collaboration
+- the KAGRA Collaboration
+- A.~G. Abac
+- I. Abouelfettouh
+- F. Acernese
+- K. Ackley
+- C. Adamcewicz
+- S. Adhicary
+- D. Adhikari
+- N. Adhikari
+- R.~X. Adhikari
+- V.~K. Adkins
+- S. Afroz
+- A. Agapito
+- D. Agarwal
+- M. Agathos
+- N. Aggarwal
+- S. Aggarwal
+- O.~D. Aguiar
+- I. -L. Ahrend
+- L. Aiello
+- A. Ain
+- P. Ajith
+- T. Akutsu
+- S. Albanesi
+- W. Ali
+- S. Al-Kershi
+- C. Alléné
+- A. Allocca
+- S. Al-Shammari
+- P.~A. Altin
+- S. Alvarez-Lopez
+- W. Amar
+- O. Amarasinghe
+- A. Amato
+- F. Amicucci
+- C. Amra
+- A. Ananyeva
+- S.~B. Anderson
+- W.~G. Anderson
+- M. Andia
+- M. Ando
+- M. Andrés-Carcasona
+- T. Andrić
+- J. Anglin
+- S. Ansoldi
+- J.~M. Antelis
+- S. Antier
+- M. Aoumi
+- E.~Z. Appavuravther
+- S. Appert
+- S.~K. Apple
+- K. Arai
+- A. Araya
+- M.~C. Araya
+- M. Arca Sedda
+- J.~S. Areeda
+- N. Aritomi
+- F. Armato
+- S. Armstrong
+- N. Arnaud
+- M. Arogeti
+- S.~M. Aronson
+- K.~G. Arun
+- G. Ashton
+- Y. Aso
+- L. Asprea
+- M. Assiduo
+- S. Assis de Souza Melo
+- S.~M. Aston
+- P. Astone
+- F. Attadio
+- F. Aubin
+- K. AultONeal
+- G. Avallone
+- E.~A. Avila
+- S. Babak
+- C. Badger
+- S. Bae
+- S. Bagnasco
+- L. Baiotti
+- R. Bajpai
+- T. Baka
+- A.~M. Baker
+- K.~A. Baker
+- T. Baker
+- G. Baldi
+- N. Baldicchi
+- M. Ball
+- G. Ballardin
+- S.~W. Ballmer
+- S. Banagiri
+- B. Banerjee
+- D. Bankar
+- T.~M. Baptiste
+- P. Baral
+- M. Baratti
+- J.~C. Barayoga
+- B.~C. Barish
+- D. Barker
+- N. Barman
+- P. Barneo
+- F. Barone
+- B. Barr
+- L. Barsotti
+- M. Barsuglia
+- D. Barta
+- A.~M. Bartoletti
+- M.~A. Barton
+- I. Bartos
+- A. Basalaev
+- R. Bassiri
+- A. Basti
+- M. Bawaj
+- P. Baxi
+- J.~C. Bayley
+- A.~C. Baylor
+- II, P.~A. Baynard
+- M. Bazzan
+- V.~M. Bedakihale
+- F. Beirnaert
+- M. Bejger
+- D. Belardinelli
+- A.~S. Bell
+- D.~S. Bellie
+- L. Bellizzi
+- W. Benoit
+- I. Bentara
+- J.~D. Bentley
+- M. Ben Yaala
+- S. Bera
+- F. Bergamin
+- B.~K. Berger
+- S. Bernuzzi
+- M. Beroiz
+- C.~P.~L. Berry
+- D. Bersanetti
+- T. Bertheas
+- A. Bertolini
+- J. Betzwieser
+- D. Beveridge
+- G. Bevilacqua
+- N. Bevins
+- R. Bhandare
+- R. Bhatt
+- D. Bhattacharjee
+- S. Bhattacharyya
+- S. Bhaumik
+- V. Biancalana
+- A. Bianchi
+- I.~A. Bilenko
+- G. Billingsley
+- A. Binetti
+- S. Bini
+- C. Binu
+- S. Biot
+- O. Birnholtz
+- S. Biscoveanu
+- A. Bisht
+- M. Bitossi
+- M. -A. Bizouard
+- S. Blaber
+- J.~K. Blackburn
+- L.~A. Blagg
+- C.~D. Blair
+- D.~G. Blair
+- N. Bode
+- N. Boettner
+- G. Boileau
+- M. Boldrini
+- G.~N. Bolingbroke
+- A. Bolliand
+- L.~D. Bonavena
+- R. Bondarescu
+- F. Bondu
+- E. Bonilla
+- M.~S. Bonilla
+- A. Bonino
+- R. Bonnand
+- A. Borchers
+- S. Borhanian
+- V. Boschi
+- S. Bose
+- V. Bossilkov
+- Y. Bothra
+- A. Boudon
+- L. Bourg
+- M. Boyle
+- A. Bozzi
+- C. Bradaschia
+- P.~R. Brady
+- A. Branch
+- M. Branchesi
+- I. Braun
+- T. Briant
+- A. Brillet
+- M. Brinkmann
+- P. Brockill
+- E. Brockmueller
+date: '2025-08-01'
+publishDate: '2026-01-14T10:43:06.220773Z'
+publication_types:
+- article-journal
+publication: '*arXiv e-prints*'
+doi: 10.48550/arXiv.2508.18082
+tags:
+- General Relativity and Quantum Cosmology
+- High Energy Astrophysical Phenomena
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2508.18082
+---

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gravitational Waves | </title>
+    <link>http://localhost:1313/tags/gravitational-waves/</link>
+      <atom:link href="http://localhost:1313/tags/gravitational-waves/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gravitational Waves</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Gravitational Waves</title>
+      <link>http://localhost:1313/tags/gravitational-waves/</link>
+    </image>
+    
+    <item>
+      <title>Visualizing the Number of Existing and Future Gravitational-wave Detections from Merging Double Compact Objects</title>
+      <link>http://localhost:1313/publications/2024-ap-j-969-108-b/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-ap-j-969-108-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data quality up to the third observing run of advanced LIGO: Gravity Spy glitch classifications</title>
+      <link>http://localhost:1313/publications/2023-cq-gra-40-f-5004-g/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-cq-gra-40-f-5004-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the gravitational-wave sky with LISA: a Bayesian spherical harmonic approach</title>
+      <link>http://localhost:1313/publications/2021-mnras-507-5451-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-mnras-507-5451-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for cross-correlation between stochastic gravitational-wave background and galaxy number counts</title>
+      <link>http://localhost:1313/publications/2021-mnras-500-1666-y/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-mnras-500-1666-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining the gravitational-wave afterglow from a binary neutron star coalescence</title>
+      <link>http://localhost:1313/publications/2020-mnras-492-4945-b/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-mnras-492-4945-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for Gravitational Waves from a Long-lived Remnant of the Binary Neutron Star Merger GW170817</title>
+      <link>http://localhost:1313/publications/2019-ap-j-875-160-a/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2019-ap-j-875-160-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

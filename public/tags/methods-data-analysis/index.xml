@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods: Data Analysis | </title>
+    <link>http://localhost:1313/tags/methods-data-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/methods-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methods: Data Analysis</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Methods: Data Analysis</title>
+      <link>http://localhost:1313/tags/methods-data-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Mapping the gravitational-wave sky with LISA: a Bayesian spherical harmonic approach</title>
+      <link>http://localhost:1313/publications/2021-mnras-507-5451-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-mnras-507-5451-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for Gravitational Waves from a Long-lived Remnant of the Binary Neutron Star Merger GW170817</title>
+      <link>http://localhost:1313/publications/2019-ap-j-875-160-a/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2019-ap-j-875-160-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

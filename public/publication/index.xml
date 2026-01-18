@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>GW231123: extreme spins or microglitches?</title>
+      <link>http://localhost:1313/publication/2025-ar-xiv-251007228-r/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ar-xiv-251007228-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is GW231123 a hierarchical merger?</title>
+      <link>http://localhost:1313/publication/2025-ar-xiv-251014363-p/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ar-xiv-251014363-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for Three Subpopulations of Merging Binary Black Holes at Different Primary Masses</title>
+      <link>http://localhost:1313/publication/2025-ar-xiv-250915646-b/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ar-xiv-250915646-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure and Skewness of the Effective Inspiral Spin Distribution of Binary Black Hole Mergers</title>
+      <link>http://localhost:1313/publication/2025-ap-j-990-147-b/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ap-j-990-147-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Spectral Separation of Multiple Isotropic and Anisotropic Stochastic Gravitational Wave Backgrounds in LISA</title>
+      <link>http://localhost:1313/publication/2025-ar-xiv-250820308-c/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ar-xiv-250820308-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GWTC-4.0: Population Properties of Merging Compact Binaries</title>
+      <link>http://localhost:1313/publication/2025-ar-xiv-250818083-t/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ar-xiv-250818083-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GWTC-4.0: Updating the Gravitational-Wave Transient Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run</title>
+      <link>http://localhost:1313/publication/2025-ar-xiv-250818082-t/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ar-xiv-250818082-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unresolved stochastic background from compact binary mergers detectable by next-generation ground-based gravitational-wave observatories</title>
+      <link>http://localhost:1313/publication/2024-ph-rv-d-110-b-3006-b/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-ph-rv-d-110-b-3006-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing the Number of Existing and Future Gravitational-wave Detections from Merging Double Compact Objects</title>
+      <link>http://localhost:1313/publication/2024-ap-j-969-108-b/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-ap-j-969-108-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Statistical Constraints on the Natal Kick Velocity of a Black Hole in an X-Ray Quiet Binary</title>
+      <link>http://localhost:1313/publication/2023-ap-j-959-106-b/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-ap-j-959-106-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified p$_astro$ for gravitational waves: Consistently combining information from multiple search pipelines</title>
+      <link>http://localhost:1313/publication/2023-ph-rv-d-108-h-3043-b/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-ph-rv-d-108-h-3043-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data quality up to the third observing run of advanced LIGO: Gravity Spy glitch classifications</title>
+      <link>http://localhost:1313/publication/2023-cq-gra-40-f-5004-g/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-cq-gra-40-f-5004-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the gravitational-wave sky with LISA: a Bayesian spherical harmonic approach</title>
+      <link>http://localhost:1313/publication/2021-mnras-507-5451-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-mnras-507-5451-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for cross-correlation between stochastic gravitational-wave background and galaxy number counts</title>
+      <link>http://localhost:1313/publication/2021-mnras-500-1666-y/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-mnras-500-1666-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for anisotropy in the distribution of binary black hole mergers</title>
+      <link>http://localhost:1313/publication/2020-ph-rv-d-102-j-2004-p/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-ph-rv-d-102-j-2004-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring angular N -point correlations of binary black hole merger gravitational-wave events with hierarchical Bayesian inference</title>
+      <link>http://localhost:1313/publication/2020-ph-rv-d-102-f-3007-b/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-ph-rv-d-102-f-3007-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining the gravitational-wave afterglow from a binary neutron star coalescence</title>
+      <link>http://localhost:1313/publication/2020-mnras-492-4945-b/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-mnras-492-4945-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search strategies for long gravitational-wave transients: Hidden Markov model tracking and seedless clustering</title>
+      <link>http://localhost:1313/publication/2019-ph-rv-d-100-b-4034-b/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019-ph-rv-d-100-b-4034-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for Gravitational Waves from a Long-lived Remnant of the Binary Neutron Star Merger GW170817</title>
+      <link>http://localhost:1313/publication/2019-ap-j-875-160-a/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019-ap-j-875-160-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiwavelength observations of cosmological phase transitions using LISA and Cosmic Explorer</title>
+      <link>http://localhost:1313/publication/2018-ph-rv-d-98-j-3508-f/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018-ph-rv-d-98-j-3508-f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

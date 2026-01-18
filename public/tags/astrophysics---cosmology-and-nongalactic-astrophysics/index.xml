@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrophysics - Cosmology and Nongalactic Astrophysics | </title>
+    <link>http://localhost:1313/tags/astrophysics---cosmology-and-nongalactic-astrophysics/</link>
+      <atom:link href="http://localhost:1313/tags/astrophysics---cosmology-and-nongalactic-astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Astrophysics - Cosmology and Nongalactic Astrophysics</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Astrophysics - Cosmology and Nongalactic Astrophysics</title>
+      <link>http://localhost:1313/tags/astrophysics---cosmology-and-nongalactic-astrophysics/</link>
+    </image>
+    
+    <item>
+      <title>Searching for cross-correlation between stochastic gravitational-wave background and galaxy number counts</title>
+      <link>http://localhost:1313/publications/2021-mnras-500-1666-y/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-mnras-500-1666-y/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for anisotropy in the distribution of binary black hole mergers</title>
+      <link>http://localhost:1313/publications/2020-ph-rv-d-102-j-2004-p/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-ph-rv-d-102-j-2004-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring angular N -point correlations of binary black hole merger gravitational-wave events with hierarchical Bayesian inference</title>
+      <link>http://localhost:1313/publications/2020-ph-rv-d-102-f-3007-b/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-ph-rv-d-102-f-3007-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiwavelength observations of cosmological phase transitions using LISA and Cosmic Explorer</title>
+      <link>http://localhost:1313/publications/2018-ph-rv-d-98-j-3508-f/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2018-ph-rv-d-98-j-3508-f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

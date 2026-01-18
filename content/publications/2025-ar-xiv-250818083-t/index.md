@@ -1,0 +1,222 @@
+---
+title: 'GWTC-4.0: Population Properties of Merging Compact Binaries'
+authors:
+- The LIGO Scientific Collaboration
+- the Virgo Collaboration
+- the KAGRA Collaboration
+- A.~G. Abac
+- I. Abouelfettouh
+- F. Acernese
+- K. Ackley
+- C. Adamcewicz
+- S. Adhicary
+- D. Adhikari
+- N. Adhikari
+- R.~X. Adhikari
+- V.~K. Adkins
+- S. Afroz
+- D. Agarwal
+- M. Agathos
+- M. Aghaei Abchouyeh
+- O.~D. Aguiar
+- S. Ahmadzadeh
+- L. Aiello
+- A. Ain
+- P. Ajith
+- T. Akutsu
+- S. Albanesi
+- R.~A. Alfaidi
+- A. Al-Jodah
+- C. Alléné
+- A. Allocca
+- S. Al-Shammari
+- P.~A. Altin
+- S. Alvarez-Lopez
+- O. Amarasinghe
+- A. Amato
+- C. Amra
+- A. Ananyeva
+- S.~B. Anderson
+- W.~G. Anderson
+- M. Andia
+- M. Ando
+- T. Andrade
+- M. Andrés-Carcasona
+- T. Andrić
+- J. Anglin
+- S. Ansoldi
+- J.~M. Antelis
+- S. Antier
+- M. Aoumi
+- E.~Z. Appavuravther
+- S. Appert
+- S.~K. Apple
+- K. Arai
+- A. Araya
+- M.~C. Araya
+- M. Arca Sedda
+- J.~S. Areeda
+- L. Argianas
+- N. Aritomi
+- F. Armato
+- S. Armstrong
+- N. Arnaud
+- M. Arogeti
+- S.~M. Aronson
+- K.~G. Arun
+- G. Ashton
+- Y. Aso
+- M. Assiduo
+- S. Assis de Souza Melo
+- S.~M. Aston
+- P. Astone
+- F. Attadio
+- F. Aubin
+- K. AultONeal
+- G. Avallone
+- S. Babak
+- F. Badaracco
+- C. Badger
+- S. Bae
+- S. Bagnasco
+- E. Bagui
+- L. Baiotti
+- R. Bajpai
+- T. Baka
+- T. Baker
+- M. Ball
+- G. Ballardin
+- S.~W. Ballmer
+- S. Banagiri
+- B. Banerjee
+- D. Bankar
+- T.~M. Baptiste
+- P. Baral
+- J.~C. Barayoga
+- B.~C. Barish
+- D. Barker
+- N. Barman
+- P. Barneo
+- F. Barone
+- B. Barr
+- L. Barsotti
+- M. Barsuglia
+- D. Barta
+- A.~M. Bartoletti
+- M.~A. Barton
+- I. Bartos
+- S. Basak
+- A. Basalaev
+- R. Bassiri
+- A. Basti
+- D.~E. Bates
+- M. Bawaj
+- P. Baxi
+- J.~C. Bayley
+- A.~C. Baylor
+- II, P.~A. Baynard
+- M. Bazzan
+- V.~M. Bedakihale
+- F. Beirnaert
+- M. Bejger
+- D. Belardinelli
+- A.~S. Bell
+- D.~S. Bellie
+- L. Bellizzi
+- D. Beltran-Martinez
+- W. Benoit
+- I. Bentara
+- J.~D. Bentley
+- M. Ben Yaala
+- S. Bera
+- F. Bergamin
+- B.~K. Berger
+- S. Bernuzzi
+- M. Beroiz
+- C.~P.~L. Berry
+- D. Bersanetti
+- A. Bertolini
+- J. Betzwieser
+- D. Beveridge
+- G. Bevilacqua
+- N. Bevins
+- R. Bhandare
+- R. Bhatt
+- D. Bhattacharjee
+- S. Bhaumik
+- S. Bhowmick
+- V. Biancalana
+- A. Bianchi
+- I.~A. Bilenko
+- G. Billingsley
+- A. Binetti
+- S. Bini
+- C. Binu
+- O. Birnholtz
+- S. Biscoveanu
+- A. Bisht
+- M. Bitossi
+- M. -A. Bizouard
+- S. Blaber
+- J.~K. Blackburn
+- L.~A. Blagg
+- C.~D. Blair
+- D.~G. Blair
+- F. Bobba
+- N. Bode
+- G. Boileau
+- M. Boldrini
+- G.~N. Bolingbroke
+- A. Bolliand
+- L.~D. Bonavena
+- R. Bondarescu
+- F. Bondu
+- E. Bonilla
+- M.~S. Bonilla
+- A. Bonino
+- R. Bonnand
+- P. Booker
+- A. Borchers
+- S. Borhanian
+- V. Boschi
+- S. Bose
+- V. Bossilkov
+- A. Boudon
+- A. Bozzi
+- C. Bradaschia
+- P.~R. Brady
+- A. Branch
+- M. Branchesi
+- I. Braun
+- T. Briant
+- A. Brillet
+- M. Brinkmann
+- P. Brockill
+- E. Brockmueller
+- A.~F. Brooks
+- B.~C. Brown
+- D.~D. Brown
+- M.~L. Brozzetti
+- S. Brunett
+- G. Bruno
+- R. Bruntz
+- J. Bryant
+date: '2025-08-01'
+publishDate: '2026-01-14T10:43:06.207047Z'
+publication_types:
+- article-journal
+publication: '*arXiv e-prints*'
+doi: 10.48550/arXiv.2508.18083
+tags:
+- High Energy Astrophysical Phenomena
+- General Relativity and Quantum Cosmology
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2508.18083
+featured: true
+image:
+  filename: "GWTC4_skewed.png"
+  focal_point: Smart      # Smart, Center, TopLeft, etc.
+  preview_only: false     # true = social only, hide on page
+  alt_text: "A description of the image"
+---

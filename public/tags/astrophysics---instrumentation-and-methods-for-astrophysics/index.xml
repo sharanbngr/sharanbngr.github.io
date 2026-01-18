@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrophysics - Instrumentation and Methods for Astrophysics | </title>
+    <link>http://localhost:1313/tags/astrophysics---instrumentation-and-methods-for-astrophysics/</link>
+      <atom:link href="http://localhost:1313/tags/astrophysics---instrumentation-and-methods-for-astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Astrophysics - Instrumentation and Methods for Astrophysics</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>Astrophysics - Instrumentation and Methods for Astrophysics</title>
+      <link>http://localhost:1313/tags/astrophysics---instrumentation-and-methods-for-astrophysics/</link>
+    </image>
+    
+    <item>
+      <title>Visualizing the Number of Existing and Future Gravitational-wave Detections from Merging Double Compact Objects</title>
+      <link>http://localhost:1313/publications/2024-ap-j-969-108-b/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-ap-j-969-108-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Statistical Constraints on the Natal Kick Velocity of a Black Hole in an X-Ray Quiet Binary</title>
+      <link>http://localhost:1313/publications/2023-ap-j-959-106-b/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-ap-j-959-106-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unified p$_astro$ for gravitational waves: Consistently combining information from multiple search pipelines</title>
+      <link>http://localhost:1313/publications/2023-ph-rv-d-108-h-3043-b/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-ph-rv-d-108-h-3043-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data quality up to the third observing run of advanced LIGO: Gravity Spy glitch classifications</title>
+      <link>http://localhost:1313/publications/2023-cq-gra-40-f-5004-g/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-cq-gra-40-f-5004-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the gravitational-wave sky with LISA: a Bayesian spherical harmonic approach</title>
+      <link>http://localhost:1313/publications/2021-mnras-507-5451-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2021-mnras-507-5451-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring angular N -point correlations of binary black hole merger gravitational-wave events with hierarchical Bayesian inference</title>
+      <link>http://localhost:1313/publications/2020-ph-rv-d-102-f-3007-b/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-ph-rv-d-102-f-3007-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining the gravitational-wave afterglow from a binary neutron star coalescence</title>
+      <link>http://localhost:1313/publications/2020-mnras-492-4945-b/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2020-mnras-492-4945-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search strategies for long gravitational-wave transients: Hidden Markov model tracking and seedless clustering</title>
+      <link>http://localhost:1313/publications/2019-ph-rv-d-100-b-4034-b/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2019-ph-rv-d-100-b-4034-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiwavelength observations of cosmological phase transitions using LISA and Cosmic Explorer</title>
+      <link>http://localhost:1313/publications/2018-ph-rv-d-98-j-3508-f/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2018-ph-rv-d-98-j-3508-f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

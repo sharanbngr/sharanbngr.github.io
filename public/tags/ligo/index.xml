@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LIGO | </title>
+    <link>http://localhost:1313/tags/ligo/</link>
+      <atom:link href="http://localhost:1313/tags/ligo/index.xml" rel="self" type="application/rss+xml" />
+    <description>LIGO</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_702a800cd775dbac.png</url>
+      <title>LIGO</title>
+      <link>http://localhost:1313/tags/ligo/</link>
+    </image>
+    
+    <item>
+      <title>Data quality up to the third observing run of advanced LIGO: Gravity Spy glitch classifications</title>
+      <link>http://localhost:1313/publications/2023-cq-gra-40-f-5004-g/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-cq-gra-40-f-5004-g/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
