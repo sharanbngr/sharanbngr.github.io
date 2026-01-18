@@ -21,7 +21,7 @@ links:
   url: https://arxiv.org/abs/2510.14363
 featured: true
 image:
-  filename: "skewed_spins.png"
+  filename: "hierarchical.png"
   focal_point: Smart      # Smart, Center, TopLeft, etc.
   preview_only: false     # true = social only, hide on page
   alt_text: "A description of the image"
